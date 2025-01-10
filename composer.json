@@ -1,0 +1,19 @@
+{
+    "name": "endrika73/laravel-model",
+    "description": "Laravel Model with Mode PHPDocs",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Endrika73\\LaravelModel\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Endrika Nanami",
+            "email": "endrika.nanami@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
