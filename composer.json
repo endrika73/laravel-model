@@ -1,6 +1,6 @@
 {
     "name": "endrika73/laravel-model",
-    "description": "Laravel Model with Mode PHPDocs",
+    "description": "Laravel Model with More PHPDocs",
     "type": "library",
     "license": "MIT",
     "autoload": {
